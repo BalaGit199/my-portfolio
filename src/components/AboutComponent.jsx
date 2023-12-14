@@ -9,7 +9,7 @@ const AboutComponent = () => {
           <p className="text-center lg:text-4xl text-3xl font-bold underline ">About</p>
         </div>
 
-        <p className="container mx-auto text-center lg:text-left ">
+        <p className="container mx-auto text-left">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere vel
           excepturi recusandae odit, cupiditate amet. Perferendis tenetur aut
           laudantium accusantium maiores consequuntur, asperiores voluptate,
@@ -19,7 +19,7 @@ const AboutComponent = () => {
         </p>
 
         <br />
-        <p className="container mx-auto lg:text-left sm:text-center">
+        <p className="container mx-auto text-left ">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae
           soluta sit corporis repellendus illum modi amet id nam! Rerum
           doloremque repellendus eius, consequatur voluptate nam ab itaque natus

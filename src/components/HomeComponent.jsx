@@ -1,7 +1,7 @@
 import React from "react";
 import ProfileImage from "../asserts/images/portfolio-icon.jpg";
 import { Link } from "react-scroll";
-import Resume from "../asserts/pdf/Ramesh_Dec 2015.pdf";
+import Resume from "../asserts/pdf/BalajiResume-2024.pdf";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { TypeAnimation } from 'react-type-animation';
 const HomeComponent = () => {

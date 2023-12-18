@@ -29,7 +29,7 @@ const NavBarComponents = () => {
       },
   ];
   return (
-    <div className="flex justify-between items-center w-full h-20 text-white px-6 bg-black sticky top-0">
+    <div className="flex justify-between items-center w-full h-20 text-white px-6 bg-black sticky top-0 z-50">
       <div>
         <h1 className="text-3xl font-bold">Portfolio</h1>
       </div>

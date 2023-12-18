@@ -31,9 +31,7 @@ const HomeComponent = () => {
             />
           </h2>
           <p className="text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores,
-            labore recusandae enim sit corporis atque, qui ex est, minima
-            suscipit! Iure doloribus consequuntur non.
+            To work in the environment that encourage me to succeed and grow personally when i can utilize my skill and knowledge appropriately.
           </p>
           <div>
             <a
